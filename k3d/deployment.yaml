@@ -1,4 +1,4 @@
-# Deployment web application Kube-news
+# Deployment web application Conversao-Temperatura
 
 apiVersion: apps/v1
 kind: Deployment
